@@ -1,0 +1,13 @@
+{
+ "started": "2026-11-22 11:50:58",
+ "python": "3.9.6 (default, Feb  3 2024, 15:58:28) \n[Clang 15.0.0 (clang-1500.3.9.4)]",
+ "platform": "macOS-14.0-x86_64-i386-64bit",
+ "processor": "i386",
+ "commit": "no-git",
+ "config_sha256": "b9a3fdfa0346123dd7147265c2dfda57251adf5d56cd7c0a27006b0e424a46f8",
+ "folds_sha256": "7906733f1011e54f0f53e4381ba93c2541235adff989cc516a6115a39e196a1b",
+ "features_sha256": "40bb71e90a6b514031199b4b39aab87a2527c601b267a6f174adb6b5d1a91fe2",
+ "sklearn": "1.6.1",
+ "torch": "2.2.2",
+ "finished": "2026-11-22 12:40:06"
+}
